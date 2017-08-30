@@ -1,0 +1,4 @@
+This project was creating an expandable game board that could be infinitly growing or constrained at the start of every Gomoku game. 
+I developed the logic behind the board, created ways for checking the winner of the game based on a longest sequence of 
+consecutive same player positions (the game plays alot like connect 4 except the player can define how many consecutive positions it requires to win.
+I also implemented an undo and redo functionality for the game which stored all positions played by each player and you would "pop" and "push" for undos and redos.
