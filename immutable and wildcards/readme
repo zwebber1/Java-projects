@@ -1,0 +1,1 @@
+This project was designed to create an immutable record system where a list of records is created and persisted with the ability to use many combinations of wildcards to search through the records.
