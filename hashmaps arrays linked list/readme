@@ -1,0 +1,2 @@
+This project was the largest and most difficult projects I did in java as it involved so many different data types that needed to work together seamlessly.
+This project consists of a hash table made with a linked list of arrays. Each node in the list contained an array and the arrays and nodes were split or combined based on the hash tables load factor.
